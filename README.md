@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Harsh Das</h1>
-<h3 align="center">Full Stack Developer Intern @ AudienceRX &nbsp;·&nbsp; MS CS @ Stony Brook University</h3>
+<h3 align="center">Full Stack Development Intern @ AudienceRX &nbsp;·&nbsp; MS CS @ Stony Brook University</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <img align="right" src="mymemoji.png" alt="harshindelible05" width="220" />
 
-- 🏢 **Full Stack Developer Intern** at **AudienceRX**: Working on **Indelible**
+- 🏢 **Full Stack Development Intern** at **AudienceRX**: Working on **Indelible**
 - 🧱 Building end-to-end: REST APIs, React dashboards, smart contracts (chaincode) and blockchain node integration
 - 🎓 Pursuing **MS in Computer Science** at **Stony Brook University, New York**
 - ☁️ **AWS Certified Cloud Practitioner** (2024–2027): Leveraging **Amazon Managed Blockchain** in production
