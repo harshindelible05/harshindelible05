@@ -27,9 +27,6 @@
   <a href="https://leetcode.com/u/rinzler_0506/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/rinzler_0506/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
 </p>
 
 <br>
@@ -96,7 +93,7 @@
 <h4 align="left">Blockchain</h4>
 <p align="left">
   <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/hyperledger/2F3134" alt="hyperledger fabric" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger fabric" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/managed-blockchain/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon managed blockchain" width="40" height="40" />
